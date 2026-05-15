@@ -7,13 +7,6 @@ The chatbot is designed to answer questions about **Ahmed Ghroubi**, including h
 This project was created as a portfolio project to demonstrate AI integration, frontend design, backend development, API usage, and interactive chatbot functionality.
 
 ---
-
-## Repository Description
-
-AI-powered portfolio chatbot for recruiters, with Gemini/Groq model support, streaming responses, chat history, and a modern web interface.
-
----
-
 ## Main Purpose
 
 Nova Chat was built to help recruiters, employers, and visitors learn more about me in an interactive way.
