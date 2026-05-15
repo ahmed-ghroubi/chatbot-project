@@ -1,4 +1,4 @@
-@'
+
 # Nova Chat
 
 Nova Chat is a modern AI chatbot portfolio assistant.  
