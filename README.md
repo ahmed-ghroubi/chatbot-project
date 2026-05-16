@@ -50,7 +50,7 @@ The home dashboard introduces the AI portfolio assistant and provides recruiter-
 
 The chat interface allows users to send messages, receive streaming AI responses, manage conversations, delete chats, and choose between available AI models such as Gemini and Groq.
 
-![Chat Interface with Model Selection](https://github.com/ahmed-ghroubi/chatbot-project/blob/main/screenshots/dashoard%20with%20models%20.png)
+![Chat Interface with Model Selection](https://github.com/ahmed-ghroubi/chatbot-project/blob/main/screenshots/dashoard%20with%20models.png)
 
 ## Features
 
