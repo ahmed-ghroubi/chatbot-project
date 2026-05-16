@@ -34,7 +34,7 @@ The following images show the main parts of the chatbot interface, including the
 
 The login page provides a clean entry point for users. Since this is a demo project, users can enter any username and password to access the chatbot dashboard.
 
-![Login Page](https://github.com/ahmed-ghroubi/chatbot-project/blob/main/login.png)
+![Login Page](https://github.com/ahmed-ghroubi/chatbot-project/blob/main/screenshots/dashboard.png)
 
 ---
 
@@ -42,7 +42,7 @@ The login page provides a clean entry point for users. Since this is a demo proj
 
 The home dashboard introduces the AI portfolio assistant and provides recruiter-focused suggestion cards. These cards help users quickly ask about skills, projects, education, experience, and career background.
 
-![Home Dashboard](https://github.com/ahmed-ghroubi/chatbot-project/blob/main/dashboard.png)
+![Home Dashboard](https://github.com/ahmed-ghroubi/chatbot-project/blob/main/screenshots/dashboard.png)
 
 ---
 
@@ -50,7 +50,7 @@ The home dashboard introduces the AI portfolio assistant and provides recruiter-
 
 The chat interface allows users to send messages, receive streaming AI responses, manage conversations, delete chats, and choose between available AI models such as Gemini and Groq.
 
-![Chat Interface with Model Selection](https://github.com/ahmed-ghroubi/chatbot-project/blob/main/dashoard%20with%20models%20.png)
+![Chat Interface with Model Selection](https://github.com/ahmed-ghroubi/chatbot-project/blob/main/screenshots/dashoard%20with%20models%20.png)
 
 ## Features
 
